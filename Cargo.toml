@@ -1,7 +1,7 @@
 [package]
 name = "metaphone"
 description = "Realization of phonetic algorithm metaphone"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Max Frai <me@maxfrai.com>"]
 edition = "2018"
 keywords = ["phonetic", "metaphone", "soundex", "language", "nlp"]
