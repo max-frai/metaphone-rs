@@ -74,12 +74,12 @@ lazy_static! {
     static ref RulesUkrainian: Vec<Rule> = vec![rule_re! { r"[ІЇ]" => "И" },];
 }
 
-enum Language {
+pub enum Language {
     Russian,
     Ukrainian,
 }
 
-struct Metaphone {
+pub struct Metaphone {
     rules: Vec<Rule>,
 }
 
