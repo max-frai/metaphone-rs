@@ -1,0 +1,12 @@
+[package]
+name = "metaphone"
+version = "0.1.0"
+authors = ["Max Frai <me@maxfrai.com>"]
+edition = "2018"
+keywords = ["phonetic", "metaphone", "soundex", "natural", "language", "nlp"]
+categories = ["text-processing", ""]
+
+[dependencies]
+lazy_static = "1.2"
+regex = "1.1"
+itertools = "0.8"
