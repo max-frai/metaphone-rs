@@ -1,5 +1,6 @@
 [package]
 name = "metaphone"
+description = "Realization of phonetic algorithm metaphone"
 version = "0.1.0"
 authors = ["Max Frai <me@maxfrai.com>"]
 edition = "2018"
