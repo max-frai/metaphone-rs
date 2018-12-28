@@ -4,7 +4,9 @@ version = "0.1.0"
 authors = ["Max Frai <me@maxfrai.com>"]
 edition = "2018"
 keywords = ["phonetic", "metaphone", "soundex", "natural", "language", "nlp"]
-categories = ["text-processing", ""]
+categories = ["text-processing"]
+license-file = "LICENSE"
+readme = "README.md"
 
 [dependencies]
 lazy_static = "1.2"
